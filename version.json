@@ -1,0 +1,8 @@
+{
+  "version": "1.0.1",
+  "title": "Facebook Marketplace Automation Bot Update v1.0.1",
+  "release_date": "2026-10-20",
+  "description": "• 🪟 Standalone Portable Executable: Single .exe runs on any Windows 10/11 64-bit PC without Python.\n• 🛡️ Local Persistent Storage: User accounts, cookies, and profiles permanently stored in %APPDATA%\\FBMAutoBot.\n• ⚡ Direct GitHub version.json Auto-Updater: Live streaming download with real-time MBs, speed tracking, and screen lock.\n• 🌐 Anti-Detect Native Chrome Engine: Zero CDP flags for customer Messenger replies with 0% 180-day ban risk.\n• 👥 Multi-Account Isolated Sessions: Independent SQLite cookie database and browser contexts.",
+  "download_url": "https://github.com/RanaZain788/fbm-marketplace-bot/releases/latest/download/FBMAutoBot.exe",
+  "mandatory": false
+}
