@@ -1,8 +1,8 @@
 {
-  "version": "1.0.4",
-  "title": "Facebook Marketplace Automation Bot Update v1.0.4",
+  "version": "1.0.8",
+  "title": "Facebook Marketplace Automation Bot Update v1.0.8",
   "release_date": "2026-10-24",
-  "description": "• 🎨 Eye-Friendly High-Contrast Slate Navy Theme: Replaced murky dark colors with crisp Slate Navy palette, visible borders, clear input boxes, and glowing check indicators.\n• 🚀 Bulk Listing 4-Phase Engine Fix: Resolved account selection, browser launch, and ThreadPool error handling for simultaneous multi-tab publishing.\n• 🖼️ Direct Multi-Image File Selection: Added 'Select Images' direct file picker alongside folder loading.\n• 🏷️ Condition Override & 1-Click Apply: Quick condition selector (New, Used - Like New, Good, Fair) with instant 'Apply to All'.\n• 📍 Facebook Marketplace Buyer Region Injection: Configure and automate buyer location (City/ZIP and Radius) across accounts before publishing.\n• 🛡️ Profile Manager Upgrades: 1-click 'Active' profile toggle switch, prominent 'Delete' buttons on cards and inside edit dialogs, and reliable Native Chrome launcher.\n• 📦 Fast Windows Setup Wizard Installer: Fully packaged with Inno Setup 6 installer wizard.",
+  "description": "• 🛡️ Fixed Arkose Labs MatchKey Blank Screen: Removed prototype-tampering scripts that corrupted Arkose Labs integrity checks and caused white-screen freezing.\n• 🌐 Authentic Desktop Login Pipeline: Replaced mobile endpoint with official desktop login flow (facebook.com/login.php) preventing device-mismatch fraud flags.\n• 🔑 Intelligent 2FA Auto-Detection & Polling: Dynamic polling loop automatically detects 2FA prompts, generates 6-digit TOTP codes from 2FA secrets, and supports 300s seamless manual code entry without timeouts.\n• 💾 Session Protection: Browser sessions automatically preserve validated state so subsequent launches and listings never trigger redundant security checkpoints.",
   "download_url": "https://github.com/RanaZain788/fbm-marketplace-bot/releases/latest/download/FBMAutoBot_Setup.exe",
   "mandatory": false
 }
