@@ -1,8 +1,8 @@
 {
-  "version": "1.0.8",
-  "title": "Facebook Marketplace Automation Bot Update v1.0.8",
-  "release_date": "2026-10-24",
-  "description": "• 🛡️ Fixed Arkose Labs MatchKey Blank Screen: Removed prototype-tampering scripts that corrupted Arkose Labs integrity checks and caused white-screen freezing.\n• 🌐 Authentic Desktop Login Pipeline: Replaced mobile endpoint with official desktop login flow (facebook.com/login.php) preventing device-mismatch fraud flags.\n• 🔑 Intelligent 2FA Auto-Detection & Polling: Dynamic polling loop automatically detects 2FA prompts, generates 6-digit TOTP codes from 2FA secrets, and supports 300s seamless manual code entry without timeouts.\n• 💾 Session Protection: Browser sessions automatically preserve validated state so subsequent launches and listings never trigger redundant security checkpoints.",
+  "version": "1.0.14",
+  "title": "Facebook Marketplace Automation Bot Update v1.0.14",
+  "release_date": "2026-10-28",
+  "description": "• ✨ Built-in 8-Key Gemini AI Pool: Pre-loaded with 8 high-speed managed Google Gemini keys with instant automatic rotation & failover. No manual API key required!\n• 🚀 Streamlined GitHub Auto-Updater: Official update channel pre-configured with zero manual URL setup required.\n• 🛡️ Anti-Ban Listing & Safe Browser Parity: Clean native Chrome execution and robust persistent profile management.",
   "download_url": "https://github.com/RanaZain788/fbm-marketplace-bot/releases/latest/download/FBMAutoBot_Setup.exe",
   "mandatory": false
 }
