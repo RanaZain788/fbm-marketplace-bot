@@ -1,8 +1,8 @@
 {
-  "version": "1.0.14",
-  "title": "Facebook Marketplace Automation Bot Update v1.0.14",
-  "release_date": "2026-10-28",
-  "description": "• ✨ Built-in 8-Key Gemini AI Pool: Pre-loaded with 8 high-speed managed Google Gemini keys with instant automatic rotation & failover. No manual API key required!\n• 🚀 Streamlined GitHub Auto-Updater: Official update channel pre-configured with zero manual URL setup required.\n• 🛡️ Anti-Ban Listing & Safe Browser Parity: Clean native Chrome execution and robust persistent profile management.",
+  "version": "1.1.6",
+  "title": "Facebook Marketplace Automation Bot Update v1.1.6",
+  "release_date": "2026-10-31",
+  "description": "• ✨ Multi-Account 8-Key Gemini AI Pool: Upgraded with multi-account keys and ultra-fast flash-lite fallback eliminating 429 quota exhaustion.\n• 🚀 Seamless Silent Auto-Updater: In-app update installs cleanly and restarts automatically without leaving old versions behind.\n• 🛡️ Anti-Ban Listing & Safe Browser Parity: Clean native Chrome execution and robust persistent profile management.",
   "download_url": "https://github.com/RanaZain788/fbm-marketplace-bot/releases/latest/download/FBMAutoBot_Setup.exe",
   "mandatory": false
 }
